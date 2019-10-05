@@ -1,0 +1,1 @@
+Projeto desenvolvido para o minicurso Construindo aplicações com React e NodeJS CCTEC Univates 2019
